@@ -8,7 +8,7 @@ Complete step-by-step guide to set up MongoDB Atlas for your Node.js or TypeScri
  
 ## 📋 Table of Contents
  
-| # | Section | Description |
+| N | Section | Description |
 |---|---------|-------------|
 | 1 | [What is MongoDB Atlas?](#-what-is-mongodb-atlas) | Understanding what you're setting up |
 | 2 | [Prerequisites](#-prerequisites) | What you need before starting |
